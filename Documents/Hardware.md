@@ -7,7 +7,7 @@
   - [Unmanaged Switch](#unmanaged-switch)
 
 ## About
-So far my home network consist of just a few parts, excluding my personal devices (which you can see in the topology). I plan to add more devices like mini computers for example, and will update this repo as I add to it.
+So far my home network consist of just a few parts, excluding my personal devices. I plan to add more devices like mini computers for example with designated purposes, and will update this repo as I add to it.
 
 ## Server
 My main server is an old buisness desktop computer that I had collected at a previous job. 
